@@ -9,3 +9,5 @@ Une base de donne h2 est une base de donne dans la memoire qui disparait quand t
 localhost: **le port du serveur Tomcat**/h2-console
 
 <img src="https://webhostinggeeks.com/blog/wp-content/uploads/2023/05/Apache-Tomcat-Web-Server-1743x1080-optimized.png" alt="Girl in a jacket" width="500" height="600">
+
+tomcat est une serveur web creer par mavean appache qui est souvent utiliser en java pour exposer sur le web.
